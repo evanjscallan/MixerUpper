@@ -1,0 +1,3 @@
+/Users/evanscallan/Documents/PersonalDev/MixerUpper/build/CMakeFiles/MyCppProject.dir
+/Users/evanscallan/Documents/PersonalDev/MixerUpper/build/CMakeFiles/edit_cache.dir
+/Users/evanscallan/Documents/PersonalDev/MixerUpper/build/CMakeFiles/rebuild_cache.dir
